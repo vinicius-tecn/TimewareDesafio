@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TimewareAPI.Tests/TimewareAPI.Tests.csproj" />
+  <Project Path="TimewareAPI/TimewareAPI.csproj" />
+</Solution>
